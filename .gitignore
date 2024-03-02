@@ -5,3 +5,6 @@
 /obj
 /.vs
 /.config
+/bin/Debug/net6.0-windows
+/Content/bin/Windows/Content
+/Content/obj/Windows/net6.0-windows/Content
